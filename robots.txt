@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://broncoexterior.com/sitemap.xml
